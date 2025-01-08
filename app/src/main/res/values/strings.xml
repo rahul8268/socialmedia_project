@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">rahul</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Enter your E-mail</string>
+    <string name="password">Enter your password\n</string>
+    <string name="createaccount">Create Account ?\n</string>
+    <string name="name">Enter your name\n</string>
+    <string name="allreadyacc">Allready have a account ?</string>
+    <string name="progress">Please wait Account creating...</string>
+    <string name="home">Home</string>
+    <string name="search">Search\n</string>
+    <string name="profile">Profile\n</string>
+    <string name="msg">Messege</string>
+    <string name="reels">Reel</string>
+    <string name="username">username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_a_caption">Add a caption</string>
+    <string name="share">Share</string>
+    <string name="log_out">Log out</string>
+    <string name="login_your">Login your.......</string>
+    <string name="follow">Follow</string>
+    <string name="liked_by">Liked by</string>
+    <string name="nodata">No Data Found?</string>
+</resources>
